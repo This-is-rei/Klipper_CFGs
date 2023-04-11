@@ -1,0 +1,3 @@
+camera="usb"
+camera_usb_options="-r 1280x720 -f 10 -d /dev/v4l/by-id/usb-046d_0825_E126F6A0-video-index0"
+camera_http_options="-n -p 8081"
